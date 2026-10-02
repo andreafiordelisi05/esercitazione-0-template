@@ -2,11 +2,7 @@
 
 int main(void)
 {
-    /*
-     * TODO: stampa esattamente:
-     * Hello, computational physics!
-     * seguito da una nuova riga.
-     */
+  printf("Ciaooooo\n");
 
     return 0;
 }
